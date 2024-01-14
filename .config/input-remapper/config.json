@@ -1,0 +1,7 @@
+{
+    "version": "2.0.1",
+    "autoload": {
+        "SEMICO   USB Gaming Keyboard ": "Emulate MacOS",
+        "AT Translated Set 2 keyboard": "Emulate MacOS"
+    }
+}
